@@ -1,10 +1,13 @@
-# expensess
+# personal expensess app
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+this my second project of flutter course.
+
+in this project i am learning more about flutter .
+in this i also work on some responsivness and adaptivness
 
 A few resources to get you started if this is your first Flutter project:
 
